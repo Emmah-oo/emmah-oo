@@ -26,13 +26,6 @@ I'm a passionate and versatile developer who thrives on transforming complex ide
 
 ---
 
-### 🎯 **Hobbies & Interests**
-
-🛠️ **Building Cool Stuff** – From **web & mobile apps** to **automated solutions**.  
-🎮 **Gaming & Tech** – Exploring new technologies, gaming, and AI trends.
-
----
-
 ### 📫 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devemmah)  
