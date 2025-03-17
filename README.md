@@ -47,20 +47,8 @@ I'm a passionate and versatile developer who thrives on transforming complex ide
 ---
 
 
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmah-oo&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmah-oo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🎯 **Hobbies & Interests**
 
-📊 **Day Trading & Crypto** – Analyzing price action strategies and market movements.  
 🛠️ **Building Cool Stuff** – From **web & mobile apps** to **automated solutions**.  
 🎮 **Gaming & Tech** – Exploring new technologies, gaming, and AI trends.
 
