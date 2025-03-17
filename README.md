@@ -1,8 +1,5 @@
 ## 🌟 **Hi, I'm Emmah!**
 
-[![GitHub followers](https://img.shields.io/github/followers/Emmah-oo?style=social)](https://github.com/Emmah-oo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devemmah)
-
 🚀 **Frontend Engineer**  
 📍 **Port Harcourt, Nigeria**
 
@@ -28,7 +25,6 @@ I'm a passionate and versatile developer who thrives on transforming complex ide
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  ![Clerk](https://img.shields.io/badge/-Clerk-FFFFFF?style=flat-square&logo=clerk&logoColor=black)
 
 ---
-
 
 ### 🎯 **Hobbies & Interests**
 
