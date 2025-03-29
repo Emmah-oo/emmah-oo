@@ -1,7 +1,7 @@
 ## Hi, I'm Emmah!
 
 **Frontend Engineer**  
-_Port Harcourt, Nigeria_
+_Lagos, Nigeria_
 
 I'm a passionate and versatile developer who transforms complex ideas into elegant digital solutions. I build robust, scalable mobile and web applications—from innovative SaaS platforms to intuitive dashboards and CRM systems. I focus on high-performance, maintainable code and seamless user experiences. Let's build something amazing together!
 
