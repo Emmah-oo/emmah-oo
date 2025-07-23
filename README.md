@@ -13,7 +13,7 @@ I'm a passionate and versatile developer who transforms complex ideas into elega
 `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `SCSS` `Styled Components` `Framer Motion`
 
 **Backend:**  
-`NestJS` `PostgreSQL` `Prisma` `REST API` `GraphQL` `WebSockets`
+`NestJS` `PostgreSQL` `Prisma` `REST API` `GraphQL`
 
 **State Management:**  
 `Zustand`
@@ -22,10 +22,10 @@ I'm a passionate and versatile developer who transforms complex ideas into elega
 `React Native` `Expo`
 
 **DevOps & Tools:**  
-`Git` `GitHub` `Clerk`
+`Git` `GitHub`
 
 ---
 
 ### Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/devemmah) | [GitHub](https://github.com/Emmah-oo)
+[LinkedIn](https://www.linkedin.com/in/emmanuelochonogor) | [GitHub](https://github.com/Emmah-oo)
