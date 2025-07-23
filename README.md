@@ -1,4 +1,4 @@
-## Hi, I'm Emmah!
+## Hi, I'm Emmanuel!
 
 **Frontend Engineer**  
 _Lagos, Nigeria_
